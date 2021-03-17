@@ -1,3 +1,4 @@
+// license：CC-BY, author：阿信OL, website: space.bilibili.com/34380011
 
 import { _decorator, Component, Node, macro, RigidBody2D, Vec2, Collider2D, Contact2DType, PhysicsSystem2D } from 'cc';
 const { ccclass, property } = _decorator;

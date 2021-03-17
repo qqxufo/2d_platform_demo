@@ -1,3 +1,4 @@
+// license：CC-BY, author：阿信OL, website: space.bilibili.com/34380011
 
 import { _decorator, systemEvent, SystemEventType, EventKeyboard } from 'cc';
 
